@@ -1,0 +1,33 @@
+.container
+{
+  width: 300px;
+}
+
+.heading
+{
+  text-align: center;
+  font-size: 2rem;
+  font-family: 'DynaPuff', cursive;
+}
+
+.dice
+{
+  text-align: center;
+}
+
+.img
+{
+  height: 100px;
+  width: 100px;
+}
+
+.button
+{
+  text-align: center;
+}
+
+.btn
+{
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
